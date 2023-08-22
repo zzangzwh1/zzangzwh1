@@ -62,11 +62,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
-###
 
-<img src="https://raw.githubusercontent.com/zzangzwh1/zzangzwh1/output/snake.svg" alt="Snake animation" />
-
-###
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
