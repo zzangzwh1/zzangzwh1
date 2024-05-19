@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1> Welcome to Mike Wonhyuk Cho Github Repo </h1>
+<h1> Welcome to Mike Wonhyuk Cho's Github Repo </h1>
 </div>
 
 <div align="center">
