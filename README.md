@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 MNy Tech Stacks</h3>
+<h3 align="left">🛠 My Tech Stacks :</h3>
 
 ###
 
