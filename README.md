@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Engineer with a focus on **TypeSc
 
 ## 🚀 Technologies & Tools I Use
 - **Languages**: TypeScript, JavaScript, Java, C#, HTML, CSS
-- **Frameworks**: Angular, React, .NET Core, ASP.NET
+- **Frameworks**: Angular, React, .NET Core, ASP.NET, Spring
 - **Databases**: SQL Server, MySQL, PostgreSQL
 - **Tools**: Visual Studio, Git, Docker, Azure, Webpack
 
