@@ -1,6 +1,6 @@
 # Hi, I am Mike Wonhyuk Cho 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on **TypeScript**, **Javascript**,**Angular**, and **.NET** technologies.
+Welcome to my GitHub profile! I'm a Full-Stack Engineer with a focus on **TypeScript**, **Javascript**,**Angular**, and **.NET** technologies.
 
 ---
 
@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on **TypeS
 
 ## 🤝 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/zzangzwh1](https://www.linkedin.com/in/wonhyuk-cho-362502239/))
+- [LinkedIn Profile](https://www.linkedin.com/in/wonhyuk-cho-362502239)
+
 
 ---
 
