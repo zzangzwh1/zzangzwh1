@@ -16,9 +16,9 @@ I’m a **Full-Stack Software Engineer** with 4+ years of experience building, m
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangzwh1&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=false"
-    height="150"
-    alt="Most used programming languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangzwh1&locale=en&layout=compact&langs_count=10&theme=dracula&hide_border=false"
+    height="180"
+    alt="Top languages used in my GitHub repositories"
   />
 </div>
 
