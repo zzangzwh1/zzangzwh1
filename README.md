@@ -8,9 +8,9 @@ I’m a **Full-Stack Software Engineer** with 4+ years of experience building, m
 - **Backend:** .NET, ASP.NET Core, .NET Framework, ASP.NET MVC, REST APIs, Spring Boot
 - **Frontend:** Angular, React, Next.js, jQuery, HTML, CSS, Bootstrap
 - **Databases & Data Access:** Microsoft SQL Server, PostgreSQL, Oracle, MySQL, Entity Framework, ADO.NET
-- **Cloud, DevOps & CI/CD:** Microsoft Azure, Azure DevOps, GitHub Actions, BuildMaster, Git
+- **Cloud, DevOps & CI/CD:** Microsoft Azure, Azure DevOps, GitHub Actions, Build Master, Git, Vercel
 - **Integrations & Platforms:** Microsoft Graph, SharePoint, OpenText Content Server
-- **Tools & AI:** Visual Studio, Fiddler, GitHub Copilot, Azure DevOps MCP
+- **Tools & AI:** Visual Studio, Fiddler,Postman, GitHub Copilot, Azure DevOps MCP
 
 ## 📊 GitHub Stats
 
