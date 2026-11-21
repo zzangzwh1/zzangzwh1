@@ -1,34 +1,29 @@
-# Hi, I am Mike Wonhyuk Cho 👋
+# Hi, I’m Mike Wonhyuk Cho 👋
 
-Welcome to my GitHub profile! I'm a Full-Stack Engineer with a focus on **TypeScript**, **Javascript**,**Angular**, and **.NET** technologies.
+I’m a **Full-Stack Software Engineer** with 4+ years of experience building, modernizing, and supporting enterprise applications. I work across the development lifecycle, from full-stack features and REST API integrations to content migration and reliable release pipelines.
 
----
+## 🛠️ Skills & Technologies
 
-## 🚀 Technologies & Tools I Use
-- Frontend: TypeScript, JavaScript, Angular, React
-- Backend: C#, .NET Core, ASP.NET, Java, Spring
-- Databases: SQL Server, PostgreSQL, MySQL, Mongo DB
-- Cloud & DevOps: Azure, Docker, Git
-- Tools: Visual Studio, Webpack, Node.js
-
----
+- **Languages:** C#, Java, JavaScript, TypeScript, SQL
+- **Backend:** .NET, ASP.NET Core, .NET Framework, ASP.NET MVC, REST APIs, Spring Boot
+- **Frontend:** Angular, React, Next.js, jQuery, HTML, CSS, Bootstrap
+- **Databases & Data Access:** Microsoft SQL Server, PostgreSQL, Oracle, MySQL, Entity Framework, ADO.NET
+- **Cloud, DevOps & CI/CD:** Microsoft Azure, Azure DevOps, GitHub Actions, BuildMaster, Git
+- **Integrations & Platforms:** Microsoft Graph, SharePoint, OpenText Content Server
+- **Tools & AI:** Visual Studio, Fiddler, GitHub Copilot, Azure DevOps MCP
 
 ## 📊 GitHub Stats
 
-### Top Languages:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangzwh1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangzwh1&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=false"
+    height="150"
+    alt="Most used programming languages"
+  />
 </div>
-
-
 
 ## 🤝 Connect with Me
 
-- [LinkedIn Profile](https://www.linkedin.com/in/wonhyuk-cho-362502239)
+- [LinkedIn](https://www.linkedin.com/in/wonhyuk-cho-362502239)
 
-
----
-
-
-
-Thanks for visiting my GitHub profile! Feel free to check out my repositories and reach out if you'd like to collaborate! 😊
+Thanks for visiting my profile! Feel free to explore my repositories or connect with me.
